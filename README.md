@@ -12,7 +12,7 @@ I'm a passionate software developer with experience in the following technologie
    - ![React Icon](https://img.shields.io/badge/React-16-blue)
 
 📚 **Education:**
-   - [4GeeksAcademy] - [Full Stack Developer]
+   - 4Geeks Academy (https://www.4geeksacademy.co/) - Full Stack Developer
 
 📫 **Contact:**
    - [LinkedIn](www.linkedin.com/in/jorge-luis-muñoz-guerrero)

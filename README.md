@@ -1,21 +1,25 @@
 # Hello! I'm Jorge 👋
 
-I'm a passionate software developer with experience in the following technologies:
+I'm a passionate software developer with a diverse skill set and experience in various technologies. Let's connect and build something amazing together!
 
-🚀 **Programming Languages:** 
-   - ![Python Icon](https://img.shields.io/badge/Python-3-green)
-   - ![JavaScript Icon](https://img.shields.io/badge/JavaScript-ES6-yellow)
-   - ![SQL Icon](https://img.shields.io/badge/SQL-Database-blue)
+## 💼 Professional Summary
 
-🌐 **Technologies and Frameworks:**
-   - ![Bootstrap Icon](https://img.shields.io/badge/Bootstrap-5-purple)
-   - ![React Icon](https://img.shields.io/badge/React-16-blue)
+- 💻 **Programming Languages:** Python, JavaScript, SQL
+- 🌐 **Technologies and Frameworks:** Bootstrap, React
+- 📚 **Education:** Full Stack Developer certified from 4Geeks Academy
 
-📚 **Education:**
-   - 4Geeks Academy (https://www.4geeksacademy.co/) - Full Stack Developer
+## 🚀 Key Skills
 
-📫 **Contact:**
-   - [LinkedIn](www.linkedin.com/in/jorge-luis-muñoz-guerrero)
-   - [Email](jorgemunoz1991@gmail.com)
+- Full Stack Web Development
+- Frontend Development with React
+- Backend Development with Python
+- Database Design and SQL
+- Responsive Web Design with Bootstrap
+- Problem Solving and Algorithmic Thinking
 
-Thanks for visiting my GitHub profile. If you're interested in collaborating on exciting projects or have any questions, feel free to reach out!
+## 📫 Contact Information
+
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/jorge-luis-muñoz-guerrero)
+- **Email:** [jorgemunoz1991@gmail.com](mailto:jorgemunoz1991@gmail.com)
+
+Thanks for stopping by my GitHub profile. If you're interested in collaborating on exciting projects or have any questions, please don't hesitate to get in touch!

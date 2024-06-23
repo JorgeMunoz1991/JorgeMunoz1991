@@ -19,7 +19,7 @@ I'm a passionate software developer with a diverse skill set and experience in v
 
 ## 📫 Contact Information
 
-- **LinkedIn:** (www.linkedin.com/in/jorge-luis-muñoz-guerrero)
+- **LinkedIn:** ([www.linkedin.com/in/jorge-luis-muñoz-guerrero](https://www.linkedin.com/in/jorgemu%C3%B1ozguerrero/))
 - **Email:** [jorgemunoz1991@gmail.com](mailto:jorgemunoz1991@gmail.com)
 
 Thanks for stopping by my GitHub profile. If you're interested in collaborating on exciting projects or have any questions, please don't hesitate to get in touch!
